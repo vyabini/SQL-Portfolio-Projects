@@ -1,2 +1,3 @@
 # SQL-Portfolio-Projects
-Exploring the datasets using SQL server
+All the datasets were explored and analysed using SQL server
+
